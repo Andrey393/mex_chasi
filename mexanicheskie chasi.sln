@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mexanicheskie chasi", "mexanicheskie chasi\mexanicheskie chasi.csproj", "{265D8815-D51F-4A3C-B029-F0349D8D1E84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{265D8815-D51F-4A3C-B029-F0349D8D1E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265D8815-D51F-4A3C-B029-F0349D8D1E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265D8815-D51F-4A3C-B029-F0349D8D1E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265D8815-D51F-4A3C-B029-F0349D8D1E84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18E8E2EA-6445-4F45-89E1-563D5F624559}
+	EndGlobalSection
+EndGlobal

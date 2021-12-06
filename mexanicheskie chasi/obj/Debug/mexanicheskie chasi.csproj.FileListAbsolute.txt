@@ -1,0 +1,50 @@
+C:\Users\Андрей\source\repos\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie_chasi.Form1.resources
+C:\Users\Андрей\source\repos\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie_chasi.Properties.Resources.resources
+C:\Users\Андрей\source\repos\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.csproj.GenerateResource.cache
+C:\Users\Андрей\source\repos\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\mexanicheskie chasi\mexanicheskie chasi\bin\Debug\mexanicheskie chasi.exe.config
+C:\Users\Андрей\source\repos\mexanicheskie chasi\mexanicheskie chasi\bin\Debug\mexanicheskie chasi.exe
+C:\Users\Андрей\source\repos\mexanicheskie chasi\mexanicheskie chasi\bin\Debug\mexanicheskie chasi.pdb
+C:\Users\Андрей\source\repos\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.exe
+C:\Users\Андрей\source\repos\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.pdb
+E:\mexanicheskie chasi\mexanicheskie chasi\bin\Debug\mexanicheskie chasi.exe.config
+E:\mexanicheskie chasi\mexanicheskie chasi\bin\Debug\mexanicheskie chasi.exe
+E:\mexanicheskie chasi\mexanicheskie chasi\bin\Debug\mexanicheskie chasi.pdb
+E:\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.csprojAssemblyReference.cache
+E:\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie_chasi.Form1.resources
+E:\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie_chasi.Properties.Resources.resources
+E:\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.csproj.GenerateResource.cache
+E:\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.csproj.CoreCompileInputs.cache
+E:\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.exe
+E:\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.pdb
+C:\Users\stud\Desktop\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.csprojAssemblyReference.cache
+C:\Users\stud\Desktop\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie_chasi.Form1.resources
+C:\Users\stud\Desktop\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie_chasi.Properties.Resources.resources
+C:\Users\stud\Desktop\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.exe
+C:\Users\stud\Desktop\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.pdb
+C:\Users\stud\Desktop\mexanicheskie chasi\mexanicheskie chasi\bin\Debug\mexanicheskie chasi.exe.config
+C:\Users\stud\Desktop\mexanicheskie chasi\mexanicheskie chasi\bin\Debug\mexanicheskie chasi.exe
+C:\Users\stud\Desktop\mexanicheskie chasi\mexanicheskie chasi\bin\Debug\mexanicheskie chasi.pdb
+C:\Users\Андрей\Desktop\mexanicheskie chasi\mexanicheskie chasi\bin\Debug\mexanicheskie chasi.exe.config
+C:\Users\Андрей\Desktop\mexanicheskie chasi\mexanicheskie chasi\bin\Debug\mexanicheskie chasi.exe
+C:\Users\Андрей\Desktop\mexanicheskie chasi\mexanicheskie chasi\bin\Debug\mexanicheskie chasi.pdb
+C:\Users\Андрей\Desktop\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.csprojAssemblyReference.cache
+C:\Users\Андрей\Desktop\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie_chasi.Form1.resources
+C:\Users\Андрей\Desktop\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie_chasi.Properties.Resources.resources
+C:\Users\Андрей\Desktop\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.exe
+C:\Users\Андрей\Desktop\mexanicheskie chasi\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.pdb
+C:\Users\Андрей\Desktop\mexanicheskie chasi — копия\mexanicheskie chasi\bin\Debug\mexanicheskie chasi.exe.config
+C:\Users\Андрей\Desktop\mexanicheskie chasi — копия\mexanicheskie chasi\bin\Debug\mexanicheskie chasi.exe
+C:\Users\Андрей\Desktop\mexanicheskie chasi — копия\mexanicheskie chasi\bin\Debug\mexanicheskie chasi.pdb
+C:\Users\Андрей\Desktop\mexanicheskie chasi — копия\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.csprojAssemblyReference.cache
+C:\Users\Андрей\Desktop\mexanicheskie chasi — копия\mexanicheskie chasi\obj\Debug\mexanicheskie_chasi.Form1.resources
+C:\Users\Андрей\Desktop\mexanicheskie chasi — копия\mexanicheskie chasi\obj\Debug\mexanicheskie_chasi.Properties.Resources.resources
+C:\Users\Андрей\Desktop\mexanicheskie chasi — копия\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\mexanicheskie chasi — копия\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\mexanicheskie chasi — копия\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.exe
+C:\Users\Андрей\Desktop\mexanicheskie chasi — копия\mexanicheskie chasi\obj\Debug\mexanicheskie chasi.pdb
